@@ -1,0 +1,8 @@
+Written by: Luiz Antônio (takusuman). 
+
+The design and implementation of this program was entirely made by me
+to solve a problem, which was searching for registries at the ANCINE website ---
+since Brazil gov't is a joke and don't offer a simple API for doing this.
+
+Harpya is entirely in public domain.  However, the author would appreciate
+some credit if this program and/or parts of it are used in another program.
